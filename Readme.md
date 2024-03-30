@@ -1,4 +1,4 @@
-# 💫 About Me:
+<!--# 💫 About Me:
 👋 Hi! I'm Pratham Chaudhary, a result-oriented software engineer passionate about innovation. <br>   I hold a Bachelor's degree in Computer Science Engineering, where I developed strong skills in problem-solving and machine learning.<br><br>💻 Proficient in Java, JavaScript, React.js, Python, OOP, SQL, and Data Structures.<br>An Oracle Certified Associate Java SE 8 Programmer, I excel at tackling complex problems.<br><br>🔭 I’m currently working on Web Development projects.<br>🌱 I’m currently learning MERN Stack and DSA in JAVA<br>📄 My resume- https://drive.google.com/file/d/1OH3PPaWeUncx8s7qhi-eFOMfUcXdvA8R/view?usp=sharing<br>📫 Reach me on - pratham.ch.01012000@gmail.com
 
 
@@ -15,10 +15,10 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<!--### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> -->
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Pratham-chaudhary&icon=2&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Pratham-chaudhary&icon=2&color=4)](https://visitcount.itsvg.in)-->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
